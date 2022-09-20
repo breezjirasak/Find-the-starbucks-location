@@ -1,0 +1,9 @@
+Libraries or packages that use in this project.
+
+- numpy
+- Pillow
+- tkintermapview
+- pyperclip
+- pandas
+
+You should use Python version 3.9 or more.
